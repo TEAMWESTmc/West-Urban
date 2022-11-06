@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "item/seheeuniv",
-		"particle": "item/seheeuniv"
+		"0": "item/blue_dye",
+		"particle": "item/blue_dye"
 	},
 	"elements": [
 		{
@@ -55,7 +55,7 @@
 		"fixed": {
 			"rotation": [0, 90, 0],
 			"translation": [0, 0, -14],
-			"scale": [2, 4, 4]
+			"scale": [2, 2, 2]
 		}
 	}
 }
