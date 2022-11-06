@@ -72,9 +72,9 @@
 			}
 		},
 		{
-			"from": [-2, -1, 8],
-			"to": [18, 0, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [14, 7, 16]},
+			"from": [-2, -1.1, 8],
+			"to": [18, -0.1, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 6.9, 16]},
 			"faces": {
 				"north": {"uv": [0, 14, 16, 16], "texture": "#0"},
 				"east": {"uv": [6.5, 14, 8.5, 16], "texture": "#0"},
