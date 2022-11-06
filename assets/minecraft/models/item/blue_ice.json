@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom_smooth_stone_2",
-		"particle": "item/custom_smooth_stone_2"
+		"0": "item/blue_ice",
+		"particle": "item/blue_ice"
 	},
 	"elements": [
 		{

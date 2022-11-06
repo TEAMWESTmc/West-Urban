@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom_smooth_stone_3",
-		"particle": "item/custom_smooth_stone_3"
+		"0": "item/emerald_block",
+		"particle": "item/emerald_block"
 	},
 	"elements": [
 		{

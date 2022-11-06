@@ -1,6 +1,6 @@
 # West Urban ResourcePack
 
-### Release 2020.09.5
+### Release 2020.12.1
 
 ### Resourcepack Info
 
@@ -10,12 +10,10 @@ This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 Int
 Any modification of the resource pack is prohibited.
 
 When using this Resourcepack outside of team West's servers / maps,
-please make sure to leave 
-
+please make sure to leave
 
 `Made by : Avaerunun (exoxaierist@naver.com)`
 
 `Compatible MC version : 1.14 +`
 
-
-###  Optifine is required for proper use.
+### Optifine is required for proper use.
