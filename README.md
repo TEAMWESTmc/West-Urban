@@ -1,6 +1,6 @@
 # West Urban ResourcePack
 
-### Release 2021.05.1
+### Release 2021.05.2
 
 ### Resourcepack Info
 
@@ -14,6 +14,6 @@ please make sure to leave
 
 `Made by : Avaerunun (exoxaierist@naver.com)`
 
-`Compatible MC version : 1.14 +`
+`Compatible MC version : 1.16.X`
 
 ### Optifine is required for proper use.

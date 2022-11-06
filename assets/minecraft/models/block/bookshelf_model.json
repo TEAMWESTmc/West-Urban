@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
 	"textures": {
 		"side": "block/bookshelf",
 		"end": "block/bookshelf_top",

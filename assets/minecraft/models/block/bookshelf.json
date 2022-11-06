@@ -1,6 +1,5 @@
 {
-	"credit": "Made with Blockbench",
-	"parent":"block/bookshelf_model",
+	"parent": "block/cube_column",
 	"textures": {
 		"side": "block/bookshelf",
 		"end": "block/bookshelf_top",

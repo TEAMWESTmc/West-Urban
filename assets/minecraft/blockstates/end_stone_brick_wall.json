@@ -4,24 +4,39 @@
             "apply": { "model": "block/end_stone_brick_wall_post" }
         },
 
-        {   "when": { "north": "true" },
+        {   "when": { "north": "low" },
             "apply": { "model": "block/end_stone_brick_wall_side"}
         },
-        {   "when": { "north": "true", "south": "false" },
+        {   "when": { "north": "low", "south": "none" },
             "apply": { "model": "block/end_stone_brick_wall_alt"}
         },
-
-        {   "when": { "east": "true" },
+        {   "when": { "east": "low" },
             "apply": { "model": "block/end_stone_brick_wall_side", "y": 90}
         },
-        {   "when": { "south": "true" },
+        {   "when": { "south": "low" },
             "apply": { "model": "block/end_stone_brick_wall_side", "y": 180}
         },
-        {   "when": { "south": "true", "north": "false" },
+        {   "when": { "south": "low", "north": "none" },
             "apply": { "model": "block/end_stone_brick_wall_alt", "y": 180}
         },
-
-        {   "when": { "west": "true" },
+        {   "when": { "west": "low" },
+            "apply": { "model": "block/end_stone_brick_wall_side", "y": 270}
+        },{   "when": { "north": "tall" },
+            "apply": { "model": "block/end_stone_brick_wall_side"}
+        },
+        {   "when": { "north": "tall", "south": "none" },
+            "apply": { "model": "block/end_stone_brick_wall_alt"}
+        },
+        {   "when": { "east": "tall" },
+            "apply": { "model": "block/end_stone_brick_wall_side", "y": 90}
+        },
+        {   "when": { "south": "tall" },
+            "apply": { "model": "block/end_stone_brick_wall_side", "y": 180}
+        },
+        {   "when": { "south": "tall", "north": "none" },
+            "apply": { "model": "block/end_stone_brick_wall_alt", "y": 180}
+        },
+        {   "when": { "west": "tall" },
             "apply": { "model": "block/end_stone_brick_wall_side", "y": 270}
         }
     ]
