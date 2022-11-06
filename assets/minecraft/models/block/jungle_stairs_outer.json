@@ -3,6 +3,6 @@
     "textures": {
         "bottom": "block/white_wool_end",
         "top": "block/white_wool_end",
-        "side": "block/stripped_dark_oak"
+        "base": "block/stripped_spruce_log"
     }
 }

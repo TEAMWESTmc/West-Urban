@@ -10,10 +10,10 @@
         "face=wall,facing=south,powered=false": { "model": "block/jungle_button", "uvlock": true, "x": 90, "y": 180 },
         "face=wall,facing=north,powered=false": { "model": "block/jungle_button", "uvlock": true, "x": 90 },
 
-        "face=ceiling,facing=east,powered=false":  { "model": "block/jungle_button", "x": 180, "y": 270 },
-        "face=ceiling,facing=west,powered=false":  { "model": "block/jungle_button", "x": 180, "y": 90 },
-        "face=ceiling,facing=south,powered=false": { "model": "block/jungle_button", "x": 180 },
-        "face=ceiling,facing=north,powered=false": { "model": "block/jungle_button", "x": 180, "y": 180 },
+        "face=ceiling,facing=east,powered=false":  { "model": "block/jungle_button_ceiling", "y": 90 },
+        "face=ceiling,facing=west,powered=false":  { "model": "block/jungle_button_ceiling", "y": 270 },
+        "face=ceiling,facing=south,powered=false": { "model": "block/jungle_button_ceiling", "y": 180 },
+        "face=ceiling,facing=north,powered=false": { "model": "block/jungle_button_ceiling"},
 
         "face=floor,facing=east,powered=true":  { "model": "block/jungle_button_pressed", "y": 90 },
         "face=floor,facing=west,powered=true":  { "model": "block/jungle_button_pressed", "y": 270 },

@@ -1,0 +1,10 @@
+{
+    "parent": "block/template_glazed_terracotta_sink",
+    "textures": {
+        "back": "block/white_glazed_terracotta_1",
+		"particle": "block/stripped_spruce_log",
+		"top": "block/stripped_spruce_log",
+		"side": "block/white_concrete",
+		"front": "block/white_glazed_terracotta"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/template_glazed_terracotta_basic_1",
+    "textures": {
+        "top": "block/stripped_spruce_log",
+        "side": "block/white_concrete",
+        "front": "block/white_glazed_terracotta",
+        "back": "block/white_glazed_terracotta_1"
+    }
+}
