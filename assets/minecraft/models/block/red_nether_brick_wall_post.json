@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/sandstone",
+		"particle": "block/sandstone"
+	},
+	"elements": [
+		{
+			"from": [3, 12, 3],
+			"to": [13, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 17, 13]},
+			"faces": {
+				"north": {"uv": [3, 0, 13, 4], "texture": "#0"},
+				"east": {"uv": [3, 0, 13, 4], "texture": "#0"},
+				"south": {"uv": [3, 0, 13, 4], "texture": "#0"},
+				"west": {"uv": [3, 0, 13, 4], "texture": "#0"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 15, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 8, 13]},
+			"faces": {
+				"north": {"uv": [5, 1, 11, 16], "texture": "#0"},
+				"east": {"uv": [5, 1, 11, 16], "texture": "#0"},
+				"south": {"uv": [5, 1, 11, 16], "texture": "#0"},
+				"west": {"uv": [5, 1, 11, 16], "texture": "#0"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 3],
+			"to": [13, 5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 13]},
+			"faces": {
+				"north": {"uv": [3, 11, 13, 16], "texture": "#0"},
+				"east": {"uv": [3, 11, 13, 16], "texture": "#0"},
+				"south": {"uv": [3, 11, 13, 16], "texture": "#0"},
+				"west": {"uv": [3, 11, 13, 16], "texture": "#0"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 4, 4],
+			"to": [12, 6, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 7, 13]},
+			"faces": {
+				"north": {"uv": [4, 10, 12, 12], "texture": "#0"},
+				"east": {"uv": [4, 10, 12, 12], "texture": "#0"},
+				"south": {"uv": [4, 10, 12, 12], "texture": "#0"},
+				"west": {"uv": [4, 10, 12, 12], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#0"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "post",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

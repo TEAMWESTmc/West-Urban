@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "instrument=banjo,note=0": { "model": "block/crafting_table"}
+    }
+}

@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/stripped_dark_oak_log",
+		"particle": "block/stripped_dark_oak_log"
+	},
+	"elements": [
+		{
+			"from": [2, 8, 2],
+			"to": [14, 11, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 16, 15]},
+			"faces": {
+				"north": {"uv": [16, 0, 12, 16], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [16, 0, 13, 16], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "filler",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

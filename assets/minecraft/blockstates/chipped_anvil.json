@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=south": [{ "model": "block/chipped_anvil" ,"weight":3},
+                        { "model": "block/chipped_anvil_1" },
+                        { "model": "block/chipped_anvil_2" }],
+
+        "facing=west": [{ "model": "block/chipped_anvil", "y": 90 ,"weight":3},
+                        { "model": "block/chipped_anvil_1", "y": 90 },
+                        { "model": "block/chipped_anvil_2", "y": 90 }],
+
+        "facing=north": [{ "model": "block/chipped_anvil", "y": 180 ,"weight":3},
+                        { "model": "block/chipped_anvil_1", "y": 180 },
+                        { "model": "block/chipped_anvil_2", "y": 180 }],
+
+        "facing=east": [{ "model": "block/chipped_anvil", "y": 270 ,"weight":3},
+                        { "model": "block/chipped_anvil_1", "y": 270 },
+                        { "model": "block/chipped_anvil_2", "y": 270 }]
+    }
+}

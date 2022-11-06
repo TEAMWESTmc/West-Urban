@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/iron_bars",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0.5, 12.8],
+			"to": [8.5, 15.5, 13.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 7.5, 8.3]},
+			"faces": {
+				"north": {"uv": [2, 0, 3, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 3, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 3, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 3, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 8],
+			"to": [9, 0.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 1], "texture": "#0"},
+				"up": {"uv": [2, 0, 3, 8], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2, 0, 3, 8], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 15.5, 8],
+			"to": [9, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 23, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"west": {"uv": [1, 0, 9, 1], "texture": "#0"},
+				"up": {"uv": [2, 0, 3, 8], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [3, 0, 4, 8], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "iron_bars_side_alt",
+			"origin": [15, 23, 9],
+			"children": [0, 1, 2]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent":"block/bookshelf_model",
+	"textures": {
+		"side": "block/bookshelf_2",
+		"end": "block/bookshelf_top",
+		"particle": "block/bookshelf"
+	}
+}

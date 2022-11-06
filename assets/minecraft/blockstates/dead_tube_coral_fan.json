@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/dead_tube_coral_fan","weight":4.5},
+            { "model": "block/dead_tube_coral_fan_1"},
+            { "model": "block/dead_tube_coral_fan_2"},
+            { "model": "block/dead_tube_coral_fan_3"}
+        ]
+    }
+}
