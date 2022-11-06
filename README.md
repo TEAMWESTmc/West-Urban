@@ -1,4 +1,4 @@
-#----- teamWEST Urban Pack v2020.9.1 -----
+#teamWEST Urban Pack v2020.9.1
 
 Resourcepack Info
 
