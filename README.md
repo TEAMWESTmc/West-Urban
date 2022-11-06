@@ -1,6 +1,6 @@
 # West Urban ResourcePack
 
-### Release 2021.05.2
+### Release 2021.05.3
 
 ### Resourcepack Info
 
@@ -10,7 +10,7 @@ This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 Int
 Any modification of the resource pack is prohibited.
 
 When using this Resourcepack outside of team West's servers / maps,
-please make sure to leave
+please make sure to leave: < Resource Pack by WEST server - https://discord.gg/5pE76xC >
 
 `Made by : Avaerunun (exoxaierist@naver.com)`
 
