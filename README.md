@@ -1,6 +1,6 @@
 # West Urban ResourcePack
 
-### Release 2021.06.2
+### Release 2022.01.1
 
 ### Resourcepack Info
 
@@ -14,6 +14,6 @@ please make sure to leave: < Resource Pack by WEST server - https://discord.gg/5
 
 `Made by : Avaerunun (exoxaierist@naver.com)`
 
-`Compatible MC version : 1.16.X`
+`Compatible MC version : 1.18.X`
 
 ### Optifine is required for proper use.
