@@ -12,7 +12,7 @@ Any modification of the resource pack is prohibited.
 When using this Resourcepack outside of team West's servers / maps,
 please make sure to leave: < Resource Pack by WEST server - https://discord.gg/5pE76xC >
 
-`Made by : Avaerunun (exoxaierist@naver.com) and Dodoeon (me@doeon.net)`
+`Made by : Avaerunun (exoxaierist@naver.com) and dodoeon (me@doeon.net)`
 
 `Compatible MC version : 1.18.X`
 
