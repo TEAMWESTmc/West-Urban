@@ -1,6 +1,6 @@
 # West Urban ResourcePack
 
-### Release 2020.09.2
+### Release 2020.09.3
 
 ### Resourcepack Info
 
