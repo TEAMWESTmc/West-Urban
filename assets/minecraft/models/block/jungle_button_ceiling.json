@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/custom_jungle_button_ceiling",
+		"0": "block/custom_monitor",
 		"2": "block/cyan_glazed_terracotta",
-		"particle": "block/custom_jungle_button_ceiling"
+		"particle": "block/custom_monitor"
 	},
 	"elements": [
 		{

@@ -1,7 +1,6 @@
 {
-    "parent": "block/cube_column",
+    "parent": "block/cube_all",
     "textures": {
-        "end": "block/iron_block",
-        "side": "block/emerald_ore"
+        "all": "block/emerald_ore"
     }
 }

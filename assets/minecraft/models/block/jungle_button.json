@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/white_wool_end",
-		"1": "block/stripped_dark_oak_log",
-		"particle": "block/white_wool_end"
+		"0": "block/white_wool",
+		"1": "block/stripped_spruce_log",
+		"particle": "block/white_wool"
 	},
 	"elements": [
 		{

@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"0": "block/custom_chipped_anvil_top",
 		"1": "block/custom_chipped_anvil_alt",

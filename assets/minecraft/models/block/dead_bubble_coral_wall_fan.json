@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/custom_dead_bubble_coral_wall_fan",
 		"2": "block/red_wool",
-		"3": "block/white_wool_end",
+		"3": "block/white_wool",
 		"particle": "block/custom_dead_bubble_coral_wall_fan"
 	},
 	"elements": [
