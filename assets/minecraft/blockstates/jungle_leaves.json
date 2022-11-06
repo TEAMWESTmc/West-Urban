@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [ { "model": "block/jungle_leaves" },
+	{ "model": "block/jungle_leaves" , "y" : 180} ,
+{ "model": "block/jungle_leaves_1"} ,
+	{ "model": "block/jungle_leaves_1" , "y" : 180}  ]
+    }
+}
