@@ -1,6 +1,13 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/debug_stick"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/debug_stick"
+	},
+	"display": {
+		"firstperson_lefthand": {
+			"translation": [3.75, 1, 0],
+			"scale": [0.1, 0.1, 0.2]
+		}
+	}
 }

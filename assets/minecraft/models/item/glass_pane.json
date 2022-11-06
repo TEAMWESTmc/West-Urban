@@ -1,0 +1,7 @@
+{
+    "parent": "item/template_glass_pane",
+    "textures": {
+        "side": "block/glass",
+        "top": "block/glass_pane_top"
+    }
+}
