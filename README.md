@@ -1,6 +1,6 @@
 # West Urban ResourcePack
 
-# TEAMWEST ResourcePack
+## TEAMWEST ResourcePack
 
 ### Release 2022.06.1
 
