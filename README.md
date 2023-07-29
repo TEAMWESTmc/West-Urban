@@ -1,5 +1,5 @@
 # West Urban
-## Release 2022.06.1
+## Release 2023.07.1
 
 ### Resourcepack Info
 
