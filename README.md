@@ -1,5 +1,6 @@
 # West Urban
-## Release 2022.06.1
+
+## Release 2022.08.1
 
 ### Resourcepack Info
 
@@ -9,12 +10,11 @@ So, <br>
 When using this Resourcepack outside of TEAMWEST's servers / maps,<br>
 please make sure to write it
 
-` < Resource Pack by WEST server - https://discord.gg/5pE76xC > `
-
+`< Resource Pack by WEST server - https://discord.gg/5pE76xC >`
 
 ### Compatible MC version : 1.18.X
-### Optifine is required for proper use.
 
+### Optifine is required for proper use.
 
 ## License
 
