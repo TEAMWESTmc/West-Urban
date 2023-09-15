@@ -1,7 +1,5 @@
 # West Urban
 
-## Release 2023.09.1
-
 ### Resourcepack Info
 
 This resource pack is mainly developed for the purpose of using it in [Song Lim City](https://teamwest.co.kr/intro/slc/)
