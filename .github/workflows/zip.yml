@@ -1,0 +1,29 @@
+name: Resourcepack Archive
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  zip-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set timezone to KST
+        run: echo "TZ=Asia/Seoul" >> $GITHUB_ENV
+
+      - name: get commit hash
+        run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+
+      - name: Zip and Upload artifact
+        run: |
+          export DATE_PART=$(date +'%Y.%m.0d')
+          export TIMESTAMP=$(date +'%y%m%d-%H%M')
+          export FILENAME=West.Urban.${DATE_PART}.${{ env.sha_short }}-${TIMESTAMP}.zip
+          zip -r -9 $FILENAME ./ -x ".git/*" -x ".github/*"
+          curl -X POST -F "file1=@$FILENAME" ${{ secrets.DISCORD_WEBHOOK }} || true
+
