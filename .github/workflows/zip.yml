@@ -21,9 +21,9 @@ jobs:
 
       - name: Zip and Upload artifact
         run: |
-          export DATE_PART=$(date +'%Y.%m.0d')
+          export DATE_PART=$(date +'%Y.%m.0\d')
           export TIMESTAMP=$(date +'%y%m%d-%H%M')
           export FILENAME=West.Urban.${DATE_PART}.${{ env.sha_short }}-${TIMESTAMP}.zip
           zip -r -9 $FILENAME ./ -x ".git/*" -x ".github/*"
-          curl -X POST -F "file1=@$FILENAME" ${{ secrets.DISCORD_WEBHOOK }} || true
+          curl -X POST -F "file1=@$FILENAME" "${{ secrets.DISCORD_WEBHOOK }}" || true
 
