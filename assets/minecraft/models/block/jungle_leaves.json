@@ -1,6 +1,0 @@
-{
-    "parent":"block/leaves_model",
-    "textures": {
-		"main":"block/bigleaves_jungle"
-    }
-}

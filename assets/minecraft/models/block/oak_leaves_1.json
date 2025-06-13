@@ -1,6 +1,0 @@
-{
-    "parent":"block/leaves_model_1",
-    "textures": {
-		"main":"block/bigleaves_oak_1"
-    }
-}
