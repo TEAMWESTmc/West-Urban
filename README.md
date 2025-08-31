@@ -1,3 +1,8 @@
+Support for 1.18.X ended with the 2025.06.01 release.<br>
+From now on, only versions compatible with 1.20.1 will be released.
+
+
+
 # West Urban
 
 ### Resourcepack Info
@@ -13,6 +18,8 @@ please make sure to write it
 ### Compatible MC version : 1.18.X
 
 ### Optifine is required for proper use.
+
+
 
 ## License
 
