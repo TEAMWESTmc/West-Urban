@@ -10,7 +10,7 @@ please make sure to write it
 
 `< Resource Pack by WEST server - https://discord.gg/5pE76xC >`
 
-### Compatible MC version : 1.18.X
+### Compatible MC version : 1.20.1
 
 ### Optifine is required for proper use.
 
