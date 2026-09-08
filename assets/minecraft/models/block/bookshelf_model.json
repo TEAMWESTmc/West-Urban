@@ -3,7 +3,7 @@
 	"textures": {
 		"side": "block/bookshelf",
 		"end": "block/bookshelf_top",
-		"particle": ""
+		"particle": "block/bookshelf"
 	},
 	"elements": [
 		{
