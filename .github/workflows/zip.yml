@@ -23,6 +23,6 @@ jobs:
         run: |
           export DATE_PART=$(date +'%Y.%m.0d')
           export FILENAME=West.Urban.${DATE_PART}.${{ env.sha_short }}.zip
-          zip -r -9 $FILENAME ./ -x ".git/*" -x ".github/*"
+          zip -r -9 $FILENAME ./ -x ".git/*" -x ".github/*" -x ".gitattributes" -x "*.psd" -x "*.jpg" -x "*.jpeg" -x "*.zip" -x "*/Untitled*.png" -x "*/TexturesCom_*"
           curl -X POST -F "file1=@$FILENAME" "${{ secrets.DISCORD_WEBHOOK }}" || true
 
