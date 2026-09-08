@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/cube_all",
 	"textures": {
+		"missing": "block/acacia_door_bottom",
 		"0": "block/acacia_door_bottom",
 		"1": "block/crafting_table_top",
 		"particle": "block/acacia_door_bottom"

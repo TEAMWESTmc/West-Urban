@@ -3,6 +3,7 @@
 	"parent": "block/tinted_cross",
 	"ambientocclusion": false,
 	"textures": {
+		"missing": "block/grass",
 		"cross": "block/grass"
 	},
 	"elements": [

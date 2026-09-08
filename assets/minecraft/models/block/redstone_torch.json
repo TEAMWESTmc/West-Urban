@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "block/glowstone",
 		"0": "block/glowstone",
 		"1": "block/redstone_block",
 		"particle": "block/glowstone"

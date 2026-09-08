@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "block/yellow_stained_glass",
 		"particle": "block/yellow_stained_glass",
 		"side": "block/yellow_stained_glass",
 		"top": "block/cyan_stained_glass_pane_top"

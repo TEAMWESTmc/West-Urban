@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion":false,
 	"textures": {
+		"missing": "block/crafting_table_side",
 		"0": "block/crafting_table_side",
 		"1": "block/crafting_table_top",
 		"particle": "block/crafting_table_side"

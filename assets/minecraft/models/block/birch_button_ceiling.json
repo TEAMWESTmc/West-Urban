@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "block/cyan_glazed_terracotta",
 		"2": "block/cyan_glazed_terracotta",
 		"3": "block/oak_trapdoor"
 	},

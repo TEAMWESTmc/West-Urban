@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "block/grass_block_side",
 		"particle": "block/grass_block_side",
 		"deco": "block/grass_block_grass"
 	},
