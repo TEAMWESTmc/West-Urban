@@ -1,5 +1,5 @@
 {
     "variants": {
-        "asdf": { "model": "block/crafting_table", "x": 90}
+        "": { "model": "block/crafting_table" }
     }
 }
